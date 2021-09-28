@@ -5,6 +5,6 @@
 		<string name="contacts_tab_all">All</string>
 		<string name="country_name_KW">China</string>
 		<string name="spinner_top_up_getting_packages">Getting packages...</string>
-		<string name="new_key">New string</string>
+		<string name="new_key">Completely new string</string>
 		<string name="dialog_number_premium_body">The number you have entered (%1$s) is from premium operator, extra call charges may occur!\n\nDo you want to proceed?</string>
 	</resources>
