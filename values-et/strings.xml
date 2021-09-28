@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="main_singular.new_message">Sul on <b>1 uus</b> teade</string>
+  <string name="main_singular.welcome">Tere, kallis sõber 👋</string>
+  <string name="main_singular.messages">Teated</string>
+  <string name="main_singular.read_now">Miks mitte heita sellele kohe pilk peale</string>
+  <string name="about_us.we_are">Me oleme</string>
+  <string name="main_plural.read_now">Miks mitte heita neile kohe pilk peale</string>
+  <string name="about_us.localization_professionals">sõbralik punkt spetsialiste, kelle eesmärk on aidata teil olla edukad lokaliseerijad.</string>
+  <string name="main_plural.new_messages"><![CDATA[Sul on <b>%d uut</b> teadet]]></string>
+  <string name="about_us.connect">Ühendume</string>
+  <string name="about_us.about_us">Üht-teist meie kohta.</string>
+  <string name="main_plural.welcome">Tere, kallis sõber 👋</string>
+  <string name="main_plural.messages">Teated</string>
+  <string name="currency_MDL">valmis</string>
+  <string name="foreign_number_copied_message">mhmh</string>
+  <string name="contacts_tab_all">Kõik</string>
+  <string name="country_name_KW">midagi</string>
+  <string name="spinner_top_up_getting_packages">Pakkide saamine</string>
+  <string name="dialog_number_premium_body">asjad</string>
+  <string name="new_key">Uus võti</string>
+</resources>
