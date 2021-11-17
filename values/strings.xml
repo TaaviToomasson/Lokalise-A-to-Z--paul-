@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="main_singular.new_message">You have <b>1 new</b> message</string>
+  <string name="main_singular.welcome">Welcome my friend 👋</string>
+  <string name="main_singular.messages">Messages</string>
+  <string name="main_singular.read_now">Why don’t you go and read it now</string>
+  <string name="about_us.we_are">We are</string>
+  <string name="main_plural.read_now">Why don’t you go and read them now</string>
+  <string name="about_us.localization_professionals">a friendly bunch of professionals aiming to help you succeed in all things localization.</string>
+  <string name="main_plural.new_messages"><![CDATA[You have <b>%d new</b> messages]]></string>
+  <string name="about_us.connect">Connect</string>
+  <string name="about_us.about_us">A thing or two about us</string>
+  <string name="main_plural.welcome">Welcome my friend 👋</string>
+  <string name="main_plural.messages">Messages</string>
+  <string name="currency_MDL">Moldovan Leu</string>
+  <string name="foreign_number_copied_message">The number %1$s was copied to clipboard</string>
+  <string name="contacts_tab_all">All</string>
+  <string name="country_name_KW">China</string>
+  <string name="spinner_top_up_getting_packages">Getting packages...</string>
+  <string name="dialog_number_premium_body">The number you have entered (%1$s) is from premium operator, extra call charges may occur!
+
+Do you want to proceed?</string>
+  <string name="new_key">Completely new string</string>
+</resources>
