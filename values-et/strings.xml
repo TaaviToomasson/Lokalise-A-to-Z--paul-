@@ -2,6 +2,7 @@
 <resources>
   <string name="main_singular.new_message">Sul on <b>1 uus</b> teade</string>
   <string name="main_singular.welcome">Tere, kallis sõber 👋</string>
+  <string name="main_singular.welcome">Uus tekst</string>
   <string name="main_singular.messages">Teated</string>
   <string name="main_singular.read_now">Miks mitte heita sellele kohe pilk peale</string>
   <string name="about_us.we_are">Me oleme</string>
